@@ -1,0 +1,61 @@
+{
+  "name": "knowitowl",
+  "padlock": "v3C2XemN6V1DPwyKRlTjnA==!gwgB3hOeQEa7hTYaa7nOmPp5+/AyEaiFliJc2NeEnMsAq/xhP/xXiIlx+NXTjDRz",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "67445644-01d4-4d30-8df5-8d3d7c0abde2",
+      "resourceGroup": "DevHack",
+      "serviceName": "knowitowl",
+      "type": "abs",
+      "name": "knowitowl",
+      "id": "1"
+    },
+    {
+      "connectionString": "jwK/Q/LQKH8/1I8udi4crw==!enwfZWpjZtS8j+xIzN/jU7f6RVdtD0U1hWyUj9K36uHD2l62D3j2dQXXcz/sNm5+ZDEH23s3TOeDviG7OQ1cJdG4t+2rzUN+wFValOb71vNcU+1O0Q45jruJnkGracG/KbYZRZGZgUobiDfZ9Ax9a6V2Q0lNi+YCcass+ad0uI61hmURSZpHLHV7Eh3xcJZpJlpRFQTmnxsPbXhqxEJ2W2TxXfsWT+QDQCq+a9VaAqw=",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "67445644-01d4-4d30-8df5-8d3d7c0abde2",
+      "resourceGroup": "DevHack",
+      "serviceName": "knowitowlstorage",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "f78c1e3c-0496-4c13-ae24-aa200537c7ca",
+      "appPassword": "b9OGajZXwWeP6U6W2fZ6LA==!SaYlZIhbJUeb857BKmVjhCyVP0aO7dmx5pxk/iRLoLk=",
+      "endpoint": "https://knowitowl.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "CwLbWU4ghrypLopb+wqDLA==!hk0KIXnlfnxP5Q1RsO4ovNEhQqVsAk7UQDSYtb6swTaiA5YVL6SMo4slc7j4Fymb",
+      "applicationId": "edb55e25-b816-45e0-b137-9ad5d599cbf6",
+      "apiKeys": {},
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "67445644-01d4-4d30-8df5-8d3d7c0abde2",
+      "resourceGroup": "DevHack",
+      "serviceName": "knowitowl2q3pi6",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "c1b004be-aa3c-42aa-aa90-0df6f99174f3",
+      "authoringKey": "NHSrGSykQvNJJCmZB+uFcA==!NR/Hd2VaDMBl1cJY+UEDSpyKx//TQD0LrPMK352qvNMj1gLbF/YRGvabNziE8oV/",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
