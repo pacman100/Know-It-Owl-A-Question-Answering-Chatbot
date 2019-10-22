@@ -1,0 +1,11 @@
+{
+    "bert_config_file":"$BERT_BASE_DIR/bert_config.json",
+    "vocab_file" : "./$BERT_BASE_DIR/vocab.txt",
+    "model_path" : "./output/squad_base",
+    "output_dir" : "./output/",
+    "max_seq_length" : 444,
+    "doc_stride" : 128,
+    "max_query_length" : 384,    
+    "predict_batch_size" : 8,
+    "max_answer_length" : 256
+}
