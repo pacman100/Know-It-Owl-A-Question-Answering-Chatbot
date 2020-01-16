@@ -1,3 +1,3 @@
-# Know-It_Owl
+# Know It Owl
 
-See the MRC_Inference.py for the code to expose FineTUned BERT as an API.
+See the MRC_Inference.py for the code to expose FineTuned BERT as an API.
